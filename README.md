@@ -3,4 +3,4 @@ Un reproductor de música, utilizando la librería AngularJS.
 
 # Demo
 
-https://codepen.io/realyussel/full/gzjBJZ
+<a href="https://codepen.io/realyussel/full/gzjBJZ" traget="_blank">Demo en Codepen.io</a>
